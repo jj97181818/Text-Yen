@@ -1,0 +1,24 @@
+body
+{
+	width:200px;
+}
+
+#inputtext input:first-child
+{
+	display: inline-block;
+	width:170px;
+	height:20px;
+	vertical-align:middle;
+}
+
+#inputtext input:nth-child(2)
+{
+	display: inline-block;
+	width:20px;
+	height:20px;
+	vertical-align:middle;
+}
+
+#added {
+	overflow: auto;
+}
