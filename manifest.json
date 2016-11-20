@@ -1,16 +1,17 @@
 {
   "manifest_version": 2,
 
-  "name": "Kaomoji Kai",
-  "description": "yee",
-  "version": "1.0.0.1",
+  "name": "Text Yen",
+  "description": "A better kaomoji collecter.(´・ω・`ʃ♡ƪ)",
+  "version": "0.1.87",
 
   "browser_action": {
     "default_icon": "icon.png",
-    "default_popup": "popup.html"
+    "default_popup": "popup.html",
+    "default_title": "搖呀搖!━━(゜∀゜三゜∀゜)━━"
   },
   "permissions": [
     "activeTab",
     "https://ajax.googleapis.com/"
-	]
+  ]
 }
